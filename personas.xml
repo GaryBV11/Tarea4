@@ -1,0 +1,17 @@
+<personas>
+<persona>
+<nombre>Juan</nombre>
+<apellido>Vargas</apellido>
+<edad>60</edad>
+</persona>
+<persona>
+<nombre>Maria</nombre>
+<apellido>Pérez</apellido>
+<edad>25</edad>
+</persona>
+<persona>
+<nombre>José</nombre>
+<apellido>Hernández</apellido>
+<edad>30</edad>
+</persona>
+</personas>
